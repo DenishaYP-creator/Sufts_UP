@@ -27,11 +27,11 @@ The following image illustrates statistics for December
 Overall the average temperature is in the low to mid 70's, the maximum temperature in the high 80's and the minimu temptaure is in the high 50's to mid 60's. - 71 
 There following results illustrate precpitation ffor June and December. 
 
-###JUNE 
+### JUNE 
 
 [![junepcp.png](https://i.postimg.cc/6p6zSWgg/junepcp.png)](https://postimg.cc/HVKQ8gp9)
 
-###DECEMBER 
+### DECEMBER 
 
 [![decpcp.png](https://i.postimg.cc/Y9Q10ZTQ/decpcp.png)](https://postimg.cc/MMKcrP6G)
 
